@@ -1,0 +1,14 @@
+.header{
+    background-color: rgba(248, 241, 174, 0.842);
+    display: flex;
+    justify-content: space-between;
+}
+
+.langs{
+    background-color: rgba(248, 241, 174, 0.842);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
